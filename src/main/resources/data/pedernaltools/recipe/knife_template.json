@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SSS",
+    "SFS",
+    "STS"
+  ],
+  "key": {
+    "S": { "item": "minecraft:smooth_stone" },
+    "F": { "item": "pedernaltools:flint_shard" },
+    "T": { "item": "minecraft:stick" }
+  },
+  "result": {
+    "id": "pedernaltools:knife_template",
+    "count": 1
+  }
+}

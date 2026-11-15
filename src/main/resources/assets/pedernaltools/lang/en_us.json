@@ -1,0 +1,16 @@
+{
+  "itemGroup.pedernaltools": "Pedernal Tools",
+  "item.pedernaltools.flint_pickaxe": "Flint Pickaxe",
+  "item.pedernaltools.flint_axe": "Flint Axe",
+  "item.pedernaltools.flint_shard": "Flint Shard",
+  "item.pedernaltools.flint_knife": "Flint Knife",
+  "item.pedernaltools.stone_knife": "Stone Knife",
+  "item.pedernaltools.iron_knife": "Iron Knife",
+  "item.pedernaltools.gold_knife": "Golden Knife",
+  "item.pedernaltools.diamond_knife": "Diamond Knife",
+  "item.pedernaltools.netherite_knife": "Netherite Knife",
+  "item.pedernaltools.quantum_knife": "Quantum Knife",
+  "item.pedernaltools.plant_fiber": "Plant Fiber",
+  "item.pedernaltools.plant_string": "Plant String",
+  "item.pedernaltools.knife_template": "Knife Smithing Template"
+}

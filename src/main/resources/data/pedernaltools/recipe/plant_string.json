@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "pedernaltools:plant_fiber" },
+    { "item": "pedernaltools:plant_fiber" },
+    { "item": "pedernaltools:plant_fiber" }
+  ],
+  "result": {
+    "id": "pedernaltools:plant_string",
+    "count": 1
+  }
+}

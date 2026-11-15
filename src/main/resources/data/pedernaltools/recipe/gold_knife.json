@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": { "item": "pedernaltools:knife_template" },
+  "base": { "item": "pedernaltools:flint_knife" },
+  "addition": { "item": "minecraft:gold_ingot" },
+  "result": { "id": "pedernaltools:gold_knife", "count": 1 }
+}

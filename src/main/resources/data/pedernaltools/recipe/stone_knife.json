@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": { "item": "pedernaltools:knife_template" },
+  "base": { "item": "pedernaltools:flint_knife" },
+  "addition": { "item": "minecraft:cobblestone" },
+  "result": { "id": "pedernaltools:stone_knife", "count": 1 }
+}

@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": { "item": "pedernaltools:knife_template" },
+  "base": { "item": "pedernaltools:iron_knife" },
+  "addition": { "item": "minecraft:diamond" },
+  "result": { "id": "pedernaltools:diamond_knife", "count": 1 }
+}

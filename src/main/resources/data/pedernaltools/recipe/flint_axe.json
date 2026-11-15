@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "PS",
+    "# "
+  ],
+  "key": {
+    "S": { "item": "pedernaltools:flint_shard" },
+    "#": { "item": "minecraft:stick" },
+    "P": { "item": "pedernaltools:plant_string" }
+  },
+  "result": {
+    "id": "pedernaltools:flint_axe",
+    "count": 1
+  }
+}
